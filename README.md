@@ -8,7 +8,6 @@
 
 ## 🙏 읽을겁니다
 
-- [Clean Architecture](http://www.yes24.com/Product/Goods/77283734) - 로버트 C. 마틴
 - [Kotlin in Action](http://www.yes24.com/Product/Goods/55148593) - 드미트리 제메로프, 스베트라나 이사코바
 - [운영체제](http://www.yes24.com/Product/Goods/89496122) - Abraham Silberschatz, Peter Baer Galvin, Greg Gagne
 
@@ -17,9 +16,8 @@
 ## 👀 읽고 있어요
 
 - [Learn You a Haskell for Greate Good!](https://nostarch.com/lyah.htm) - Miran Lipovača
-- [Clean Code](http://www.yes24.com/Product/Goods/11681152) - 로버트 C. 마틴
 
 
 ## 😎 다 읽었어요
 
-지금은 없지만 곧 생길거예요...
+- [Clean Architecture](http://www.yes24.com/Product/Goods/77283734) - 로버트 C. 마틴
