@@ -16,8 +16,8 @@
 
 - [이것이 MySQL이다](https://www.yes24.com/Product/Goods/90118480)
 - [오브젝트](https://www.yes24.com/Product/Goods/74219491)
-- [운영체제](http://www.yes24.com/Product/Goods/89496122) (공룡책)
-- [컴퓨터 시스템](https://www.yes24.com/Product/Goods/31950404) (CS:APP)
+- [운영체제](http://www.yes24.com/Product/Goods/89496122) (공룡책, 10판)
+- [컴퓨터 시스템](https://www.yes24.com/Product/Goods/31950404) (CS:APP, 3판)
 
 ### 😎 라면 받침 탈출
 
